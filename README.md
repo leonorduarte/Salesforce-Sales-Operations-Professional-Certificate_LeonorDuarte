@@ -37,7 +37,9 @@ This is a repository to showcase skills, share projects and track my progress in
 - Completed the Salesforce Independent Project on Coursera, which focused on leveraging Salesforce Sales Cloud features to manage opportunities, track progress, and close deals effectively.  
 - Strengthened proficiency in managing leads, tracking opportunities through the pipeline, and nurturing client relationships.  
 - Acquired hands-on experience with Salesforce features like **Opportunity Tracking**, **Product Management**, **Quote Management**, and **Contract Management**.  
+
 [Project 2](https://github.com/leonorduarte/Salesforce-Sales-Operations-Professional-certificate_LeonorDuarte/blob/main/Closing%20Sales%20Deals%20Project_LD.pdf)
+
 **Skills Gained**:  
 - Salesforce Sales Cloud  
 - Opportunity Management  
@@ -50,7 +52,9 @@ This is a repository to showcase skills, share projects and track my progress in
 - Undertook an independent project to improve customer support using Salesforce Service Cloud.  
 - Demonstrated the ability to utilize **Case Management** and **Knowledge Management** tools to address customer inquiries and publish helpful articles for resolving common issues.  
 - Gained in-depth knowledge of streamlining customer service operations and re-engineering processes to enhance customer satisfaction.  
+
 [Project 3](https://github.com/leonorduarte/Salesforce-Sales-Operations-Professional-certificate_LeonorDuarte/blob/main/Customer%20Success%20in%20Salesforce%20_LD.pdf)
+
 **Skills Gained**:  
 - Salesforce Service Cloud  
 - Case Management  
@@ -63,7 +67,9 @@ This is a repository to showcase skills, share projects and track my progress in
 - Successfully completed a project focused on analyzing business data and creating detailed reports and dashboards using Salesforce Sales Cloud.  
 - Built reports, charts, and dashboards to communicate key sales performance metrics to stakeholders and executives.  
 - Developed expertise in managing Salesforce's data structure, writing reports, and visualizing data for actionable insights.  
+
 [Project 4](https://github.com/leonorduarte/Salesforce-Sales-Operations-Professional-certificate_LeonorDuarte/blob/main/Reports%20and%20Dashboards%20in%20Salesforce_LD.pdf)
+
 **Skills Gained**:  
 - Salesforce Reporting and Dashboards  
 - Data Visualization  
